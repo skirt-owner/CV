@@ -1,6 +1,9 @@
 theme: jekyll-theme-minimal
 title: 💻💭
+description: David Ramazanov's CV
 ru/:
+  title: 💻💭
   description: CV Рамазанова Давида
 en/:
+  title: 💻💭
   description: David Ramazanov's CV
