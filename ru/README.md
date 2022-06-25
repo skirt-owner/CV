@@ -1,5 +1,3 @@
-<description>CV Рамазанова Давида</description>
-
 # Давид Рамазанов ([EN](../en)/[RU](../ru))
 _Python и Unity C# разработчик_
 
