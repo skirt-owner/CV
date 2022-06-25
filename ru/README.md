@@ -1,4 +1,4 @@
-# Давид Рамазанов ([EN](/CV/en/README.md)/[RU](/CV/ru/README.md))
+# Давид Рамазанов ([EN](en/README.md)/[RU](ru/README.md))
 _Python и Unity C# разработчик_
 
 <div id="socials" float="left">
