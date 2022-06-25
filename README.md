@@ -1,5 +1,3 @@
-_config.title: !
-
 # David Ramazanov ([EN](en/README.md)/[RU](ru/README.md))
 _Python and Unity C# developer_
 
