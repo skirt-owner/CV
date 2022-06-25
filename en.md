@@ -1,7 +1,3 @@
----
-permalink: /CV/en
----
-
 # David Ramazanov ([EN](../en)/[RU](../ru))
 _Python and Unity C# developer_
 
