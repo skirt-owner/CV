@@ -1,5 +1,4 @@
-
-title: dsd
+permlink: /CV/en
 ---
 
 # David Ramazanov ([EN](../en)/[RU](../ru))
