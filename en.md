@@ -1,7 +1,5 @@
-# David Ramazanov
+# David Ramazanov ([EN](/CV/en)/[RU](/CV/ru))
 _Python and Unity C# developer_
-
-[EN](/CV/en), [RU](/CV/ru)
 
 <div id="socials" float="left">
   <a href="mailto:wrkngskirt@gmail.com">
