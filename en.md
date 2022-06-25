@@ -1,5 +1,6 @@
 ---
 permlink: "/CV/en"
+---
 
 # David Ramazanov ([EN](/CV/en.md)/[RU](/CV/ru.md))
 _Python and Unity C# developer_
