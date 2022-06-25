@@ -1,4 +1,5 @@
-permlink: /CV/en
+---
+permalink: /CV/en
 ---
 
 # David Ramazanov ([EN](../en)/[RU](../ru))
