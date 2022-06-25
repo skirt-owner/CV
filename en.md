@@ -1,4 +1,7 @@
-# David Ramazanov ([EN](/CV/en)/[RU](/CV/ru))
+---
+permlink: "/CV/en"
+
+# David Ramazanov ([EN](/CV/en.md)/[RU](/CV/ru.md))
 _Python and Unity C# developer_
 
 <div id="socials" float="left">
