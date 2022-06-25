@@ -1,4 +1,4 @@
-# David Ramazanov ([EN](/CV/en)/[RU](/CV/ru))
+# David Ramazanov (<a href="../en">EN</a>, <a href="../ru">RU</a>)
 _Python and Unity C# developer_
 
 <div id="socials" float="left">
