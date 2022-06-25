@@ -1,7 +1,7 @@
 # David Ramazanov
 _Python and Unity C# developer_
 <br><br>
-Avaliable languages: [EN](/en), [RU](/ru)
+Avaliable languages: [EN](/en.md), [RU](/ru.md)
 
 <div id="socials" float="left">
   <a href="mailto:wrkngskirt@gmail.com">
