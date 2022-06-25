@@ -1,5 +1,5 @@
-# David Ramazanov ([EN](en.md)/[RU](ru.md))
-_Python and Unity C# developer_
+# Давид Рамазанов ([EN](en.md)/[RU](ru.md))
+_Python и Unity C# разработчик_
 
 <div id="socials" float="left">
   <a href="mailto:wrkngskirt@gmail.com">
