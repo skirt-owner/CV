@@ -1,4 +1,4 @@
-# David Ramazanov ([EN](en/README)/[RU](ru/README))
+# David Ramazanov ([EN](en/README.md)/[RU](ru/README.md))
 _Python and Unity C# developer_
 
 <div id="socials" float="left">
