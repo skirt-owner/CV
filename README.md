@@ -21,7 +21,6 @@ _Python and Unity C# developer_
 ## 🗣️ Languages
 **Russian**: Native<br>
 **English**: B2<br>
-**German**: Learning
 
 ## 👨‍🎓 Education
 ### Information Systems and Technology Program
