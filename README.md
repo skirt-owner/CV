@@ -1,6 +1,5 @@
 # David Ramazanov ([EN](en/README.md)/[RU](ru/README.md))
 _Python and Unity C# developer_
-<br><br>
 
 <div id="socials" float="left">
   <a href="mailto:wrkngskirt@gmail.com">
@@ -13,6 +12,7 @@ _Python and Unity C# developer_
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
+<br><br>
   
 ## 👨‍💻 Programming Experience
 ### Bots Developer
