@@ -2,6 +2,16 @@ theme: jekyll-theme-minimal
 title: 💻💭
 description: David Ramazanov's CV
 
+- type: dropdown
+  name: language
+  label: Language
+  description: Choose your preferred language.
+  options:
+  - label: English
+    value: en
+  - label: Russian
+    value: ru
+
 translations:
     ru:
       title: 💻💭
